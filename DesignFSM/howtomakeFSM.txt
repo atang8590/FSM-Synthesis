@@ -1,4 +1,5 @@
 Design Guidelines are to be followed not strictly
+Just kidding
 
 This whole thing is about sysnthesis.
 You are given some state diagram.
