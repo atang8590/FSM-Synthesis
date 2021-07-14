@@ -1,0 +1,20 @@
+Design Guidelines are to be followed not strictly
+
+This whole thing is about sysnthesis.
+You are given some state diagram.
+This state diagram describes the funtional operation of the the design to be implemented.
+
+The bottom line of everything is obtaining 
+the implementation table and 
+output table so as to get get your design at your doorstep.
+
+
+SO the steps are 
+
+1. Make your state table from the given drawn State Diagram 
+
+2. From your state table, obtain the implementation table
+the above step depends widely on the flip flop kind you wanna use for your design and
+the various input signals you are working with.
+
+3. Will continue another time
